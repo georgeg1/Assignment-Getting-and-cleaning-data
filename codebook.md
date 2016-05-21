@@ -16,5 +16,5 @@ and so on. They are all means or standard deviations .
 
 The results were grouped by the "group_by' function of the dplyr package according to subject number and activity label. The activities are 1 WALKING, 2 WALKING_UPSTAIRS, 3 WALKING_DOWNSTAIRS, 4 SITTING, 5 STANDING, 6 LAYING.
 
-The final data file was created by merging the initial data files with the 'merge' function and renaming the initially non- descriptive variables (V1,V2...) to the current descriptive ones by the dcast and colnames function.
+The final data file was created by merging the initial data files with the 'merge' function and renaming the initially non- descriptive variables (V1,V2...) to the current descriptive ones, by the dcast and colnames function.
 
